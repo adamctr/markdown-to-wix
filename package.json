@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "express": "^5.1.0",
+    "marked": "^16.3.0",
+    "ricos-content": "^10.102.0"
+  }
+}
