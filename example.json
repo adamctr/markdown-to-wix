@@ -1,0 +1,4223 @@
+{
+    "nodes": [
+      {
+        "type": "PARAGRAPH",
+        "id": "yzi3925388",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "IMAGE",
+        "id": "hw7lq124644",
+        "imageData": {
+          "containerData": {
+            "width": {
+              "size": "CONTENT"
+            },
+            "alignment": "CENTER",
+            "textWrap": true
+          },
+          "image": {
+            "src": {
+              "id": "853f36_e50ddc1d2d664ac388bbcaeae629ff62~mv2.png"
+            },
+            "width": 1536,
+            "height": 1024
+          },
+          "altText": "ESG tableau de bord"
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "d66tz124647",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "neodt124783",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "L’immobilier est entré dans une phase nouvelle. Une phase plus exigeante. Plus rationnelle. Plus “résultats”. Pendant des années, la conversation a été portée par des labels, des engagements, des intentions. Cela ne suffit plus. Le marché veut des preuves. Les parties prenantes demandent des résultats mesurables. Et surtout, des résultats durables.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "1tvhb16491",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "zzdkn2117",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Les investisseurs veulent une démonstration. Ils veulent s’assurer que les actifs conserveront leur valeur dans un contexte de règles plus strictes. Les régulateurs demandent des performances vérifiées. Les locataires élèvent leurs exigences. Ils attendent plus de santé. Plus de confort. Plus de transparence. Le débat se déplace. Il ne porte plus seulement sur “faire mieux”. Il porte sur “délivrer” et “tenir dans la durée”.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "khquo16368",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "66gtx2119",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Ce changement n’est pas cosmétique. Il transforme la stratégie. Il transforme les arbitrages CAPEX. Il transforme la gouvernance. Il transforme la façon de piloter un portefeuille. Les priorités techniques évoluent aussi. Le marché se focalise sur le carbone sur l’ensemble du cycle de vie. Il exige des mesures Scope 3 crédibles. Il attend une conformité fondée sur la performance réelle. Pas sur une déclaration.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "e83gv16245",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "r54462121",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Dans ce contexte, les stratégies de rétrofit prennent une dimension de sauvegarde. Elles deviennent une protection contre l’obsolescence. Le commissioning continu s’impose. La préparation à l’électrification devient un impératif. La planification de projet pilotée par la donnée devient un standard. En parallèle, l’engagement locataire se renforce. Les données de qualité d’air deviennent visibles. Les baux verts se structurent. Les approches biophiliques et biodiversité élargissent la durabilité au-delà du bâtiment.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "ycaf92123",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Au final, une logique domine. La crédibilité repose sur la preuve de délivrance. Et sur la résilience financière.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "baec515466",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "HEADING",
+        "id": "zc4u02125",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Changer la façon de parler d’ESG et de durabilité",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(8, 78, 189)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "headingData": {
+          "level": 2,
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "c7nci15876",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "9ah7r2127",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Le vocabulaire évolue. Le récit aussi. Avant, l’ESG pouvait être présenté comme un engagement. Aujourd’hui, il est traité comme un sujet de performance. Le marché est plus mature. Il est plus critique. Il est aussi plus pressé.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "htqqg16001",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "ijlup2129",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Les mots qui comptent changent. On parle moins de “vision”. On parle plus de “trajectoire”. On parle moins de “label”. On parle plus de “données”. On parle moins de “bonnes pratiques”. On parle plus de “preuves” et d’“auditabilité”.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "njg2n16126",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "6hzgo2131",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Ce changement est sain. Il réduit le risque de greenwashing. Il aligne les discours sur les contraintes réelles. Il met aussi en lumière une exigence : la cohérence. Une stratégie ESG doit s’exprimer dans les choix techniques. Dans le budget. Dans le phasage. Dans les contrats. Et dans les indicateurs.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "2we6315346",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "HEADING",
+        "id": "p2uip2133",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Des narratifs plus stratégiques, plus économiques",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(8, 78, 189)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "headingData": {
+          "level": 2,
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "n5y0q2135",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "wzw6w14938",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "La durabilité n’est plus un sujet à part. Elle devient un élément de la logique de valeur immobilière. Elle influence directement :",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "BULLETED_LIST",
+        "id": "vdz2x2137",
+        "nodes": [
+          {
+            "type": "LIST_ITEM",
+            "id": "anjk52138",
+            "nodes": [
+              {
+                "type": "PARAGRAPH",
+                "id": "mjceg2139",
+                "nodes": [
+                  {
+                    "type": "TEXT",
+                    "id": "",
+                    "textData": {
+                      "text": "La liquidité d’un actif.",
+                      "decorations": [
+                        {
+                          "type": "COLOR",
+                          "colorData": {
+                            "foreground": "rgb(0, 0, 0)"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "style": {},
+                "paragraphData": {
+                  "textStyle": {
+                    "textAlignment": "JUSTIFY"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "type": "LIST_ITEM",
+            "id": "cpm3c2141",
+            "nodes": [
+              {
+                "type": "PARAGRAPH",
+                "id": "c9hvj2142",
+                "nodes": [
+                  {
+                    "type": "TEXT",
+                    "id": "",
+                    "textData": {
+                      "text": "Le niveau de vacance et l’attractivité locative.",
+                      "decorations": [
+                        {
+                          "type": "COLOR",
+                          "colorData": {
+                            "foreground": "rgb(0, 0, 0)"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "style": {},
+                "paragraphData": {
+                  "textStyle": {
+                    "textAlignment": "JUSTIFY"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "type": "LIST_ITEM",
+            "id": "voqyo2144",
+            "nodes": [
+              {
+                "type": "PARAGRAPH",
+                "id": "pmh5m2145",
+                "nodes": [
+                  {
+                    "type": "TEXT",
+                    "id": "",
+                    "textData": {
+                      "text": "Le coût de financement et l’accès au capital.",
+                      "decorations": [
+                        {
+                          "type": "COLOR",
+                          "colorData": {
+                            "foreground": "rgb(0, 0, 0)"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "style": {},
+                "paragraphData": {
+                  "textStyle": {
+                    "textAlignment": "JUSTIFY"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "type": "LIST_ITEM",
+            "id": "tiwkq2147",
+            "nodes": [
+              {
+                "type": "PARAGRAPH",
+                "id": "i98sh2148",
+                "nodes": [
+                  {
+                    "type": "TEXT",
+                    "id": "",
+                    "textData": {
+                      "text": "Le risque réglementaire et le risque d’obsolescence.",
+                      "decorations": [
+                        {
+                          "type": "COLOR",
+                          "colorData": {
+                            "foreground": "rgb(0, 0, 0)"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "style": {},
+                "paragraphData": {
+                  "textStyle": {
+                    "textAlignment": "JUSTIFY"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "type": "LIST_ITEM",
+            "id": "zi28m2150",
+            "nodes": [
+              {
+                "type": "PARAGRAPH",
+                "id": "dadnx2151",
+                "nodes": [
+                  {
+                    "type": "TEXT",
+                    "id": "",
+                    "textData": {
+                      "text": "Les coûts d’exploitation, donc le cash-flow.",
+                      "decorations": [
+                        {
+                          "type": "COLOR",
+                          "colorData": {
+                            "foreground": "rgb(0, 0, 0)"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "style": {},
+                "paragraphData": {
+                  "textStyle": {
+                    "textAlignment": "JUSTIFY"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "iz0d32153",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "zkmo714820",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Le marché ne veut pas uniquement une “histoire”. Il veut un lien clair entre action et résultat. Entre CAPEX et performance. Entre trajectoire carbone et résilience. Entre confort occupant et rétention.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "r6rao14697",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "iyw5b2155",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "La conséquence est simple. Les directions doivent être capables de tenir un discours financier. Un discours technique. Et un discours réglementaire. Le tout, avec des chiffres cohérents. Et des hypothèses explicites.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "2yycz14574",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "HEADING",
+        "id": "0z1ht2157",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Les leviers qui maintiennent l’élan ESG et décarbonation",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(8, 78, 189)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "headingData": {
+          "level": 2,
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "3ovhs2159",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "xri5n14166",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Dans beaucoup d’organisations, l’ESG a franchi une étape. Il n’est plus “poussé” par quelques personnes convaincues. Il est “tiré” par le risque et par la valeur. Cela crée un élan plus stable. Mais cet élan a besoin de leviers structurants.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "9vfhz14043",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "9up042161",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Trois leviers reviennent systématiquement.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "oqsnd2163",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Levier 1 : la gouvernance.",
+              "decorations": [
+                {
+                  "type": "BOLD",
+                  "fontWeightValue": 700
+                },
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Sans gouvernance, l’ESG devient un ensemble d’initiatives dispersées. Avec gouvernance, il devient un programme piloté. Avec des responsabilités claires. Des comités. Des arbitrages. Des jalons.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "4ulyj13922",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "zvnmy2166",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Levier 2 : l’intégration portefeuille.",
+              "decorations": [
+                {
+                  "type": "BOLD",
+                  "fontWeightValue": 700
+                },
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Un actif peut être exemplaire. Le portefeuille, lui, peut être fragile. Le pilotage doit donc être global. Il doit prioriser les actifs à risque. Il doit organiser les séquences de travaux. Il doit arbitrer les budgets là où l’impact est maximal.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "9pyq613800",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "bcjsl2169",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Levier 3 : la ",
+              "decorations": [
+                {
+                  "type": "BOLD",
+                  "fontWeightValue": 700
+                },
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "donnée.",
+              "decorations": [
+                {
+                  "type": "BOLD",
+                  "fontWeightValue": 700
+                },
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                },
+                {
+                  "type": "LINK",
+                  "linkData": {
+                    "link": {
+                      "url": "http://donnée.La",
+                      "target": "BLANK",
+                      "rel": {
+                        "noreferrer": true
+                      }
+                    }
+                  }
+                },
+                {
+                  "type": "UNDERLINE"
+                }
+              ]
+            }
+          },
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "La",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                },
+                {
+                  "type": "LINK",
+                  "linkData": {
+                    "link": {
+                      "url": "http://donnée.La",
+                      "target": "BLANK",
+                      "rel": {
+                        "noreferrer": true
+                      }
+                    }
+                  }
+                },
+                {
+                  "type": "UNDERLINE"
+                }
+              ]
+            }
+          },
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": " donnée est la base de la preuve. Sans données fiables, pas de trajectoire crédible. Pas de reporting robuste. Pas de mesure Scope 3 défendable.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "1czgg188700",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "IMAGE",
+        "id": "h3byn180784",
+        "imageData": {
+          "containerData": {
+            "width": {
+              "custom": "398"
+            },
+            "alignment": "CENTER",
+            "textWrap": true
+          },
+          "image": {
+            "src": {
+              "id": "853f36_98db5fc11e084b0d91601b47e38e6d88~mv2.png"
+            },
+            "width": 1024,
+            "height": 1024
+          },
+          "altText": "ESG Analyse Portefeuille ESG"
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "zuyzv188824"
+      },
+      {
+        "type": "HEADING",
+        "id": "62f9c2174",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "L’ESG reste ancré dans la logique de valeur immobilière",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(8, 78, 189)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "headingData": {
+          "level": 2,
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "60z2r2176",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "f2tgx13272",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "La création de valeur immobilière repose sur des fondamentaux. Localisation. Qualité. Services. Performance d’exploitation. Stabilité locative. Risque. Aujourd’hui, l’ESG s’insère dans chacun de ces fondamentaux.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "6wrlg2178",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "i50g513149",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Un actif “résilient” est un actif qui :",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "BULLETED_LIST",
+        "id": "kyx7d2180",
+        "nodes": [
+          {
+            "type": "LIST_ITEM",
+            "id": "d5pil2181",
+            "nodes": [
+              {
+                "type": "PARAGRAPH",
+                "id": "k8hvy2182",
+                "nodes": [
+                  {
+                    "type": "TEXT",
+                    "id": "",
+                    "textData": {
+                      "text": "Anticipe les exigences futures.",
+                      "decorations": [
+                        {
+                          "type": "COLOR",
+                          "colorData": {
+                            "foreground": "rgb(0, 0, 0)"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "style": {},
+                "paragraphData": {
+                  "textStyle": {
+                    "textAlignment": "JUSTIFY"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "type": "LIST_ITEM",
+            "id": "02nbx2184",
+            "nodes": [
+              {
+                "type": "PARAGRAPH",
+                "id": "dl3cd2185",
+                "nodes": [
+                  {
+                    "type": "TEXT",
+                    "id": "",
+                    "textData": {
+                      "text": "Réduit ses charges structurelles.",
+                      "decorations": [
+                        {
+                          "type": "COLOR",
+                          "colorData": {
+                            "foreground": "rgb(0, 0, 0)"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "style": {},
+                "paragraphData": {
+                  "textStyle": {
+                    "textAlignment": "JUSTIFY"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "type": "LIST_ITEM",
+            "id": "hxhmb2187",
+            "nodes": [
+              {
+                "type": "PARAGRAPH",
+                "id": "5z9212188",
+                "nodes": [
+                  {
+                    "type": "TEXT",
+                    "id": "",
+                    "textData": {
+                      "text": "Offre un confort mesurable.",
+                      "decorations": [
+                        {
+                          "type": "COLOR",
+                          "colorData": {
+                            "foreground": "rgb(0, 0, 0)"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "style": {},
+                "paragraphData": {
+                  "textStyle": {
+                    "textAlignment": "JUSTIFY"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "type": "LIST_ITEM",
+            "id": "i7j5v2190",
+            "nodes": [
+              {
+                "type": "PARAGRAPH",
+                "id": "vpg672191",
+                "nodes": [
+                  {
+                    "type": "TEXT",
+                    "id": "",
+                    "textData": {
+                      "text": "Propose de la transparence.",
+                      "decorations": [
+                        {
+                          "type": "COLOR",
+                          "colorData": {
+                            "foreground": "rgb(0, 0, 0)"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "style": {},
+                "paragraphData": {
+                  "textStyle": {
+                    "textAlignment": "JUSTIFY"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "type": "LIST_ITEM",
+            "id": "96y1i2193",
+            "nodes": [
+              {
+                "type": "PARAGRAPH",
+                "id": "cig0m2194",
+                "nodes": [
+                  {
+                    "type": "TEXT",
+                    "id": "",
+                    "textData": {
+                      "text": "Évite les ruptures de conformité.",
+                      "decorations": [
+                        {
+                          "type": "COLOR",
+                          "colorData": {
+                            "foreground": "rgb(0, 0, 0)"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "style": {},
+                "paragraphData": {
+                  "textStyle": {
+                    "textAlignment": "JUSTIFY"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "1qyx62196",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "mi8gs13031",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Cette résilience crée de la valeur de plusieurs façons. Elle protège les revenus locatifs. Elle réduit l’incertitude. Elle peut faciliter la commercialisation. Elle limite les CAPEX d’urgence. Elle rend les arbitrages plus prévisibles.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "e1stu12908",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "p7y3g2198",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "À l’inverse, un actif non aligné s’expose. Il peut subir une décote. Il peut devenir plus difficile à financer. Il peut perdre en liquidité. Et il peut se retrouver dans une impasse technique.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "0w5g312785"
+      },
+      {
+        "type": "HEADING",
+        "id": "ngea32200",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Leadership et gouvernance : les moteurs des bascules majeures",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(8, 78, 189)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "headingData": {
+          "level": 2,
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "i1xw02202",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "cr65x11264",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Le basculement le plus visible se situe au niveau de la direction. L’ESG remonte à la gouvernance. Il devient un sujet de comité d’investissement. Un sujet de stratégie. Un sujet de risques. Un sujet de réputation. Et un sujet de conformité.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "13bjt2204",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "edacu11141",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Cela implique des changements concrets.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "BULLETED_LIST",
+        "id": "p5x812206",
+        "nodes": [
+          {
+            "type": "LIST_ITEM",
+            "id": "rfml92207",
+            "nodes": [
+              {
+                "type": "PARAGRAPH",
+                "id": "8eumd2208",
+                "nodes": [
+                  {
+                    "type": "TEXT",
+                    "id": "",
+                    "textData": {
+                      "text": "Définir une trajectoire portefeuille.",
+                      "decorations": [
+                        {
+                          "type": "COLOR",
+                          "colorData": {
+                            "foreground": "rgb(0, 0, 0)"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "style": {},
+                "paragraphData": {
+                  "textStyle": {
+                    "textAlignment": "JUSTIFY"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "type": "LIST_ITEM",
+            "id": "vjud92210",
+            "nodes": [
+              {
+                "type": "PARAGRAPH",
+                "id": "3jpys2211",
+                "nodes": [
+                  {
+                    "type": "TEXT",
+                    "id": "",
+                    "textData": {
+                      "text": "Fixer des KPI.",
+                      "decorations": [
+                        {
+                          "type": "COLOR",
+                          "colorData": {
+                            "foreground": "rgb(0, 0, 0)"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "style": {},
+                "paragraphData": {
+                  "textStyle": {
+                    "textAlignment": "JUSTIFY"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "type": "LIST_ITEM",
+            "id": "wai952213",
+            "nodes": [
+              {
+                "type": "PARAGRAPH",
+                "id": "w9b2f2214",
+                "nodes": [
+                  {
+                    "type": "TEXT",
+                    "id": "",
+                    "textData": {
+                      "text": "Mettre en place des revues périodiques.",
+                      "decorations": [
+                        {
+                          "type": "COLOR",
+                          "colorData": {
+                            "foreground": "rgb(0, 0, 0)"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "style": {},
+                "paragraphData": {
+                  "textStyle": {
+                    "textAlignment": "JUSTIFY"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "type": "LIST_ITEM",
+            "id": "peu8e2216",
+            "nodes": [
+              {
+                "type": "PARAGRAPH",
+                "id": "f9q3u2217",
+                "nodes": [
+                  {
+                    "type": "TEXT",
+                    "id": "",
+                    "textData": {
+                      "text": "Allouer des budgets et des ressources.",
+                      "decorations": [
+                        {
+                          "type": "COLOR",
+                          "colorData": {
+                            "foreground": "rgb(0, 0, 0)"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "style": {},
+                "paragraphData": {
+                  "textStyle": {
+                    "textAlignment": "JUSTIFY"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "type": "LIST_ITEM",
+            "id": "y10qk2219",
+            "nodes": [
+              {
+                "type": "PARAGRAPH",
+                "id": "pfr4y2220",
+                "nodes": [
+                  {
+                    "type": "TEXT",
+                    "id": "",
+                    "textData": {
+                      "text": "Organiser les responsabilités entre asset, property, technique, finance.",
+                      "decorations": [
+                        {
+                          "type": "COLOR",
+                          "colorData": {
+                            "foreground": "rgb(0, 0, 0)"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "style": {},
+                "paragraphData": {
+                  "textStyle": {
+                    "textAlignment": "JUSTIFY"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "mp6z32222",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "f1wx811023",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "La gouvernance est aussi un outil de discipline. Elle évite les décisions opportunistes. Elle évite les “petits gestes” non mesurés. Elle force à prioriser. Elle force à démontrer. Elle force à documenter.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "s1ppu10900",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "HEADING",
+        "id": "r7kgj2224",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Technologies tactiques : ce qui accélère la décarbonation des bâtiments",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(8, 78, 189)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "headingData": {
+          "level": 2,
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "od3ve10777",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "cmtnb2226",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "La décarbonation n’est pas seulement une affaire de grands travaux. Elle repose aussi sur une série d’actions tactiques. Ces actions sont souvent plus rapides. Elles sont parfois moins coûteuses. Et elles peuvent générer un impact important.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "eg0bz10368",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "i51qg2228",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Trois tendances se dégagent.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "nhd1o2230",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Tendance 1 : pilotage par la donnée.",
+              "decorations": [
+                {
+                  "type": "BOLD",
+                  "fontWeightValue": 700
+                },
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Capteurs, GTB, supervision, analytics. L’objectif est de comprendre. Puis d’optimiser. Puis de maintenir la performance. La donnée devient un outil opérationnel, pas un reporting de fin d’année.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "ry1i910247",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "xgljg2233",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Tendance 2 : commissioning continu.",
+              "decorations": [
+                {
+                  "type": "BOLD",
+                  "fontWeightValue": 700
+                },
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Un bâtiment dérive. Les consignes évoluent. Les usages changent. Le commissioning continu vise à détecter et corriger ces dérives. Il sécurise la performance réelle. Il réduit les écarts entre “prévu” et “constaté”.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "tt8kp10125",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "4z5gs2236",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Tendance 3 : planification projet “data-led”.",
+              "decorations": [
+                {
+                  "type": "BOLD",
+                  "fontWeightValue": 700
+                },
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Le pilotage de travaux se structure à partir de diagnostics mesurés. À partir de courbes de charge. À partir d’historiques d’exploitation. À partir d’analyses de scénarios. On réduit l’approximation. On réduit le risque. On accélère la décision.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "ici81140365",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "wjt3y134249"
+      },
+      {
+        "type": "HEADING",
+        "id": "u3or32239",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Mesure et pilotage : vers des résultats ESG en temps réel",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(8, 78, 189)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "headingData": {
+          "level": 2,
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "ygk7g2241",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "IMAGE",
+        "id": "yq419124952",
+        "imageData": {
+          "containerData": {
+            "width": {
+              "custom": "425"
+            },
+            "alignment": "LEFT",
+            "textWrap": true
+          },
+          "image": {
+            "src": {
+              "id": "853f36_1652cdbe2e3e43b08b113fc4c6c911d9~mv2.png"
+            },
+            "width": 1024,
+            "height": 1024
+          },
+          "altText": "ESG affichage des information pou les occupants de l'immeuble"
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "99pdq9471",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "La mesure change de nature. On passe d’indicateurs déclaratifs à des indicateurs de performance. On passe de rapports annuels à des suivis plus fréquents. On passe de “compliance narrative” à “compliance performance”.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "b1sh12243",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Cela implique une nouvelle exigence : l’auditabilité.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "qckj62245",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "w1qbm9597",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Une mesure crédible doit être :",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "BULLETED_LIST",
+        "id": "bzfs82247",
+        "nodes": [
+          {
+            "type": "LIST_ITEM",
+            "id": "wkbq12248",
+            "nodes": [
+              {
+                "type": "PARAGRAPH",
+                "id": "e9hak2249",
+                "nodes": [
+                  {
+                    "type": "TEXT",
+                    "id": "",
+                    "textData": {
+                      "text": "Traçable.",
+                      "decorations": [
+                        {
+                          "type": "COLOR",
+                          "colorData": {
+                            "foreground": "rgb(0, 0, 0)"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "style": {},
+                "paragraphData": {
+                  "textStyle": {
+                    "textAlignment": "JUSTIFY"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "type": "LIST_ITEM",
+            "id": "hbf9u2251",
+            "nodes": [
+              {
+                "type": "PARAGRAPH",
+                "id": "5xmm62252",
+                "nodes": [
+                  {
+                    "type": "TEXT",
+                    "id": "",
+                    "textData": {
+                      "text": "Reproductible.",
+                      "decorations": [
+                        {
+                          "type": "COLOR",
+                          "colorData": {
+                            "foreground": "rgb(0, 0, 0)"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "style": {},
+                "paragraphData": {
+                  "textStyle": {
+                    "textAlignment": "JUSTIFY"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "type": "LIST_ITEM",
+            "id": "98gca2254",
+            "nodes": [
+              {
+                "type": "PARAGRAPH",
+                "id": "1m5yq2255",
+                "nodes": [
+                  {
+                    "type": "TEXT",
+                    "id": "",
+                    "textData": {
+                      "text": "Comparable.",
+                      "decorations": [
+                        {
+                          "type": "COLOR",
+                          "colorData": {
+                            "foreground": "rgb(0, 0, 0)"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "style": {},
+                "paragraphData": {
+                  "textStyle": {
+                    "textAlignment": "JUSTIFY"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "type": "LIST_ITEM",
+            "id": "zbtzj2257",
+            "nodes": [
+              {
+                "type": "PARAGRAPH",
+                "id": "s5b4p2258",
+                "nodes": [
+                  {
+                    "type": "TEXT",
+                    "id": "",
+                    "textData": {
+                      "text": "Explicable.",
+                      "decorations": [
+                        {
+                          "type": "COLOR",
+                          "colorData": {
+                            "foreground": "rgb(0, 0, 0)"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "style": {},
+                "paragraphData": {
+                  "textStyle": {
+                    "textAlignment": "JUSTIFY"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "type": "LIST_ITEM",
+            "id": "lvps62260",
+            "nodes": [
+              {
+                "type": "PARAGRAPH",
+                "id": "n767m2261",
+                "nodes": [
+                  {
+                    "type": "TEXT",
+                    "id": "",
+                    "textData": {
+                      "text": "Exploitable.",
+                      "decorations": [
+                        {
+                          "type": "COLOR",
+                          "colorData": {
+                            "foreground": "rgb(0, 0, 0)"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "style": {},
+                "paragraphData": {
+                  "textStyle": {
+                    "textAlignment": "JUSTIFY"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "aa3tn2263",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "ky7if9231",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Ce point est crucial pour le Scope 3. Car le Scope 3 est complexe. Il dépend de la chaîne de valeur. Il dépend de fournisseurs. Il dépend de méthodes de calcul. Il dépend d’hypothèses. Sans méthode robuste, le Scope 3 devient fragile. Et donc, contestable.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "vk2bw2265",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "znc7q9356",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Le marché attend donc des dispositifs de mesure sérieux. Des protocoles. Des contrôles. Des revues. Et une capacité à expliquer les écarts.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "z3gyy8576",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "HEADING",
+        "id": "0zi2k2267",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "L’émergence des “self-healing buildings”",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(8, 78, 189)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "headingData": {
+          "level": 2,
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "tvh968453",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "xywvu2269",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Une idée progresse. Celle de bâtiments capables de s’auto-corriger. Le principe est simple. On instrumente. On observe. On détecte des dérives. On propose ou on applique des corrections. On stabilise la performance. On maintient le confort.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "305rl8987",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "n9pvm2271",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Ce “self-healing” n’est pas une promesse futuriste. C’est une trajectoire. Elle se construit avec :",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "BULLETED_LIST",
+        "id": "xiljg2273",
+        "nodes": [
+          {
+            "type": "LIST_ITEM",
+            "id": "y5dsk2274",
+            "nodes": [
+              {
+                "type": "PARAGRAPH",
+                "id": "sajpf2275",
+                "nodes": [
+                  {
+                    "type": "TEXT",
+                    "id": "",
+                    "textData": {
+                      "text": "Des capteurs fiables.",
+                      "decorations": [
+                        {
+                          "type": "COLOR",
+                          "colorData": {
+                            "foreground": "rgb(0, 0, 0)"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "style": {},
+                "paragraphData": {
+                  "textStyle": {
+                    "textAlignment": "JUSTIFY"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "type": "LIST_ITEM",
+            "id": "obtf12277",
+            "nodes": [
+              {
+                "type": "PARAGRAPH",
+                "id": "602n72278",
+                "nodes": [
+                  {
+                    "type": "TEXT",
+                    "id": "",
+                    "textData": {
+                      "text": "Une GTB bien configurée.",
+                      "decorations": [
+                        {
+                          "type": "COLOR",
+                          "colorData": {
+                            "foreground": "rgb(0, 0, 0)"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "style": {},
+                "paragraphData": {
+                  "textStyle": {
+                    "textAlignment": "JUSTIFY"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "type": "LIST_ITEM",
+            "id": "y0gfk2280",
+            "nodes": [
+              {
+                "type": "PARAGRAPH",
+                "id": "h1b9h2281",
+                "nodes": [
+                  {
+                    "type": "TEXT",
+                    "id": "",
+                    "textData": {
+                      "text": "Des règles de détection de dérives.",
+                      "decorations": [
+                        {
+                          "type": "COLOR",
+                          "colorData": {
+                            "foreground": "rgb(0, 0, 0)"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "style": {},
+                "paragraphData": {
+                  "textStyle": {
+                    "textAlignment": "JUSTIFY"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "type": "LIST_ITEM",
+            "id": "4c2db2283",
+            "nodes": [
+              {
+                "type": "PARAGRAPH",
+                "id": "jpan52284",
+                "nodes": [
+                  {
+                    "type": "TEXT",
+                    "id": "",
+                    "textData": {
+                      "text": "Des scénarios de correction.",
+                      "decorations": [
+                        {
+                          "type": "COLOR",
+                          "colorData": {
+                            "foreground": "rgb(0, 0, 0)"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "style": {},
+                "paragraphData": {
+                  "textStyle": {
+                    "textAlignment": "JUSTIFY"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "type": "LIST_ITEM",
+            "id": "w0mj72286",
+            "nodes": [
+              {
+                "type": "PARAGRAPH",
+                "id": "lvcf42287",
+                "nodes": [
+                  {
+                    "type": "TEXT",
+                    "id": "",
+                    "textData": {
+                      "text": "Une exploitation outillée, formée, responsabilisée.",
+                      "decorations": [
+                        {
+                          "type": "COLOR",
+                          "colorData": {
+                            "foreground": "rgb(0, 0, 0)"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "style": {},
+                "paragraphData": {
+                  "textStyle": {
+                    "textAlignment": "JUSTIFY"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "q1t8z2289",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "cn7ft9117",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "L’intérêt est double. D’un côté, on réduit les consommations et les émissions. De l’autre, on sécurise le confort. Et donc, l’expérience occupant. C’est un levier de durabilité. Mais aussi un levier d’attractivité.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "502t4139866",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "IMAGE",
+        "id": "xh95a134361",
+        "imageData": {
+          "containerData": {
+            "width": {
+              "custom": "426"
+            },
+            "alignment": "CENTER",
+            "textWrap": true
+          },
+          "image": {
+            "src": {
+              "id": "853f36_2205b38647f94fbab66e3f00abb61588~mv2.png"
+            },
+            "width": 1024,
+            "height": 1024
+          },
+          "altText": "ESG CVC retrofit ready"
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "55l63139742"
+      },
+      {
+        "type": "HEADING",
+        "id": "zojab2291",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Décarbonation “retrofit-ready” : se protéger de l’obsolescence",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(8, 78, 189)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "headingData": {
+          "level": 2,
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "v02a07680",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "a9rdj2293",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Le rétrofit n’est plus un “projet technique”. Il devient une stratégie de protection de valeur. Le marché cherche des actifs “prêts”. Prêts à évoluer. Prêts à intégrer de nouveaux systèmes. Prêts à se conformer.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "lzvb17557",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "d50wl2295",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Trois axes structurent les approches retrofit-ready.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "lcwbs2297",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Axe 1 : readiness à l’électrification.",
+              "decorations": [
+                {
+                  "type": "BOLD",
+                  "fontWeightValue": 700
+                },
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "L’électrification implique des impacts. Puissance disponible. Distribution électrique. Compatibilité des équipements. Pilotage. Elle doit être anticipée. Et séquencée. Sans cela, on risque des blocages. Ou des surcoûts.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "o2s1i7436",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "b9mxo2300",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Axe 2 : commissioning et performance après travaux.",
+              "decorations": [
+                {
+                  "type": "BOLD",
+                  "fontWeightValue": 700
+                },
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Le projet ne s’arrête pas à la réception. La performance réelle doit être vérifiée. Mesurée. Ajustée. Stabilisée. Sinon, l’actif ne délivre pas. Et la crédibilité s’effondre.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "szc8s7314",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "i2ors2303",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Axe 3 : planification par scénarios.",
+              "decorations": [
+                {
+                  "type": "BOLD",
+                  "fontWeightValue": 700
+                },
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "On ne peut plus “faire au fil de l’eau”. Il faut des scénarios. Un phasage. Une stratégie d’intervention. Une coordination avec l’occupation. Une gestion des interfaces. Et une vision portefeuille.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "t5r9s2306",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Ces stratégies ne sont pas uniquement techniques. Elles sont financières. Elles réduisent le risque d’actif bloqué. Elles réduisent le risque de CAPEX d’urgence. Elles renforcent la résilience.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "c5hb07193",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "HEADING",
+        "id": "lcb8l2308",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "L’engagement locataire et social : durabilité au-delà du bâtiment",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(8, 78, 189)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "headingData": {
+          "level": 2,
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "h3vka6698",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "wsw6f2310",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "La durabilité s’étend. Elle ne concerne plus seulement la performance énergétique. Elle concerne la santé. Le confort. La transparence. Et la relation avec les occupants.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "1fx012312",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Deux évolutions sont particulièrement visibles.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "rozt36824",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "m7ioe2314",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Évolution 1 : la donnée visible.",
+              "decorations": [
+                {
+                  "type": "BOLD",
+                  "fontWeightValue": 700
+                },
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Qualité de l’air. Température. Humidité. CO₂. Particules. Les occupants veulent voir. Ils veulent comprendre. Ils veulent être rassurés. Cette transparence crée de la confiance. Elle crée aussi une exigence. Celle de maintenir un niveau de performance.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "iy4wx6950",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "uoooh2317",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Évolution 2 : les modèles contractuels et comportementaux.",
+              "decorations": [
+                {
+                  "type": "BOLD",
+                  "fontWeightValue": 700
+                },
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Les green leases progressent. Ils organisent les responsabilités. Ils alignent les incitations. Ils structurent le partage de données. Ils encadrent les usages. Ils transforment l’ESG en relation de travail entre bailleur et locataire.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "uycsm7076",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "nh8cf2320",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "À cela s’ajoutent des dimensions plus “expérientielles”. Biophilie. Biodiversité. Qualité des espaces extérieurs. Gestion de l’eau. Ces sujets élargissent la durabilité. Ils la rendent tangible. Ils créent des bénéfices perçus.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "fqdj05927",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "HEADING",
+        "id": "ux1iw2322",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Whole-life carbon, Scope 3, conformité : les nouveaux points de vérité",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(8, 78, 189)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "headingData": {
+          "level": 2,
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "h368z5150",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "3x0yc2324",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Trois thèmes dominent l’agenda.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "1d2na4779",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "a3cd52326",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Le carbone sur l’ensemble du cycle de vie.",
+              "decorations": [
+                {
+                  "type": "BOLD",
+                  "fontWeightValue": 700
+                },
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "On ne peut plus regarder uniquement l’exploitation. Il faut intégrer la construction, la rénovation, les matériaux, la fin de vie. Cela change les arbitrages. Cela peut conduire à privilégier la rénovation plutôt que le remplacement. Ou à choisir des solutions plus sobres.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "7mohq4905",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "y2lx92329",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Le Scope 3 crédible.",
+              "decorations": [
+                {
+                  "type": "BOLD",
+                  "fontWeightValue": 700
+                },
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Le Scope 3 devient un test de maturité. Il exige des méthodes. Il exige des données. Il exige une gouvernance. Il exige une capacité à travailler avec la chaîne de valeur.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "pnyi75031",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "796j32332",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "La conformité fondée sur la performance réelle.",
+              "decorations": [
+                {
+                  "type": "BOLD",
+                  "fontWeightValue": 700
+                },
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Le régulateur et le marché convergent. Ils veulent des performances vérifiées. Ils veulent des preuves. Ils veulent une capacité à démontrer la conformité, dans le temps.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "sp13v2335",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Ces thèmes imposent une discipline. Il faut passer d’une logique “projet” à une logique “système”. Un système de mesure. Un système de pilotage. Un système de preuve.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "tcypm3388",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "HEADING",
+        "id": "46a9m2337",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "La crédibilité : preuve de délivrance et résilience financière",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(8, 78, 189)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "headingData": {
+          "level": 2,
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "ia9xq4005",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "f3pvt2339",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Dans ce marché, la crédibilité ne se décrète pas. Elle se construit. Et elle se maintient. Elle repose sur deux piliers.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "l3tbc4292",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "rgamg2341",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Pilier 1 : la preuve de délivrance.",
+              "decorations": [
+                {
+                  "type": "BOLD",
+                  "fontWeightValue": 700
+                },
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "On fait ce qui est annoncé. On mesure. On documente. On corrige. On tient les engagements.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "xqfku4418",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "nnt0f2344",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Pilier 2 : la résilience financière.",
+              "decorations": [
+                {
+                  "type": "BOLD",
+                  "fontWeightValue": 700
+                },
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "On démontre que la trajectoire est finançable. On montre une logique CAPEX/OPEX. On sécurise le cash-flow. On réduit les risques. On rend les décisions robustes.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "7cefo4544",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "zml0w2347",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Concrètement, une démarche crédible repose sur une chaîne simple :",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "ORDERED_LIST",
+        "id": "fmyhz2349",
+        "nodes": [
+          {
+            "type": "LIST_ITEM",
+            "id": "y8uvp2350",
+            "nodes": [
+              {
+                "type": "PARAGRAPH",
+                "id": "xhnei2351",
+                "nodes": [
+                  {
+                    "type": "TEXT",
+                    "id": "",
+                    "textData": {
+                      "text": "Baseline fiable (énergie, carbone, confort).",
+                      "decorations": [
+                        {
+                          "type": "COLOR",
+                          "colorData": {
+                            "foreground": "rgb(0, 0, 0)"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "style": {},
+                "paragraphData": {
+                  "textStyle": {
+                    "textAlignment": "JUSTIFY"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "type": "LIST_ITEM",
+            "id": "4cpp12353",
+            "nodes": [
+              {
+                "type": "PARAGRAPH",
+                "id": "ueaiz2354",
+                "nodes": [
+                  {
+                    "type": "TEXT",
+                    "id": "",
+                    "textData": {
+                      "text": "Trajectoire portefeuille (priorités, jalons, risques).",
+                      "decorations": [
+                        {
+                          "type": "COLOR",
+                          "colorData": {
+                            "foreground": "rgb(0, 0, 0)"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "style": {},
+                "paragraphData": {
+                  "textStyle": {
+                    "textAlignment": "JUSTIFY"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "type": "LIST_ITEM",
+            "id": "rcg5n2356",
+            "nodes": [
+              {
+                "type": "PARAGRAPH",
+                "id": "bcgu22357",
+                "nodes": [
+                  {
+                    "type": "TEXT",
+                    "id": "",
+                    "textData": {
+                      "text": "Programme de travaux séquencé (technique et opérationnel).",
+                      "decorations": [
+                        {
+                          "type": "COLOR",
+                          "colorData": {
+                            "foreground": "rgb(0, 0, 0)"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "style": {},
+                "paragraphData": {
+                  "textStyle": {
+                    "textAlignment": "JUSTIFY"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "type": "LIST_ITEM",
+            "id": "oniov2359",
+            "nodes": [
+              {
+                "type": "PARAGRAPH",
+                "id": "qk0uw2360",
+                "nodes": [
+                  {
+                    "type": "TEXT",
+                    "id": "",
+                    "textData": {
+                      "text": "Mesure et vérification (avant / après, puis en continu).",
+                      "decorations": [
+                        {
+                          "type": "COLOR",
+                          "colorData": {
+                            "foreground": "rgb(0, 0, 0)"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "style": {},
+                "paragraphData": {
+                  "textStyle": {
+                    "textAlignment": "JUSTIFY"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "type": "LIST_ITEM",
+            "id": "8mgl52362",
+            "nodes": [
+              {
+                "type": "PARAGRAPH",
+                "id": "m0tku2363",
+                "nodes": [
+                  {
+                    "type": "TEXT",
+                    "id": "",
+                    "textData": {
+                      "text": "Transparence et reporting (auditables, explicables).",
+                      "decorations": [
+                        {
+                          "type": "COLOR",
+                          "colorData": {
+                            "foreground": "rgb(0, 0, 0)"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "style": {},
+                "paragraphData": {
+                  "textStyle": {
+                    "textAlignment": "JUSTIFY"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "type": "LIST_ITEM",
+            "id": "yycgb2365",
+            "nodes": [
+              {
+                "type": "PARAGRAPH",
+                "id": "9wtso2366",
+                "nodes": [
+                  {
+                    "type": "TEXT",
+                    "id": "",
+                    "textData": {
+                      "text": "Engagement occupants (donnée, contrats, usages).",
+                      "decorations": [
+                        {
+                          "type": "COLOR",
+                          "colorData": {
+                            "foreground": "rgb(0, 0, 0)"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "style": {},
+                "paragraphData": {
+                  "textStyle": {
+                    "textAlignment": "JUSTIFY"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "dkywd2368",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "hdc3y4675",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Cette chaîne transforme l’ESG. Elle en fait un sujet de management. Un sujet de performance. Un sujet de valeur.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "vbuxg2744",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "HEADING",
+        "id": "u94im2370",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Conclusion",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(8, 78, 189)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "headingData": {
+          "level": 2,
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "7sdn2180610",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "IMAGE",
+        "id": "grz05173342",
+        "imageData": {
+          "containerData": {
+            "width": {
+              "custom": "380"
+            },
+            "alignment": "CENTER",
+            "textWrap": true
+          },
+          "image": {
+            "src": {
+              "id": "853f36_0721c873b07a4e07945941596374c12a~mv2.png"
+            },
+            "width": 1024,
+            "height": 1024
+          },
+          "altText": "Patio vert - valeur ESG "
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "6drdy2372",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "r3zn6180734",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "L’immobilier vit une bascule. Une bascule du symbole vers le résultat. Une bascule du déclaratif vers le vérifiable. Une bascule du bâtiment isolé vers le portefeuille piloté.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "2btg52374",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Les investisseurs attendent des preuves de résilience. Les régulateurs attendent des performances contrôlées. Les locataires attendent santé, confort et transparence. Dans ce contexte, les organisations qui réussiront sont celles qui intègrent l’ESG au cœur du pilotage. Au niveau gouvernance. Au niveau budget. Au niveau données. Et au niveau exécution.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "xi7yv3157",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "8k2a52376",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "Les thèmes structurants sont clairs. Whole-life carbon. Scope 3 crédible. Conformité par la performance réelle. Stratégies retrofit-ready. Commissioning continu. Planification data-led. Engagement locataire outillé. Et extension de la durabilité au-delà du bâtiment, via biophilie et biodiversité.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "x5fl93282",
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "id": "eoavv2378",
+        "nodes": [
+          {
+            "type": "TEXT",
+            "id": "",
+            "textData": {
+              "text": "La conclusion est simple. La crédibilité se gagne sur le terrain. Puis dans les chiffres. Et elle se confirme dans la durée. Par la preuve de délivrance. Et par la résilience financière.",
+              "decorations": [
+                {
+                  "type": "COLOR",
+                  "colorData": {
+                    "foreground": "rgb(0, 0, 0)"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "style": {},
+        "paragraphData": {
+          "textStyle": {
+            "textAlignment": "JUSTIFY"
+          }
+        }
+      }
+    ]
+  }
